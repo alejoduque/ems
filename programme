@@ -1,73 +1,82 @@
-INTRO to the ElectroMagnetic Spectrum (for ESAA and Villa Arson - March 2009 - alejo duque)
+        An Intro to the ElectroMagnetic Spectrum 
+(ESAA & Villa Arson - March2009 - alejo duque + special guest)
 
 Day 1 Morning: We the specters
 -Short intro from each other.
--What is the electromagnetic spectrum? http://www.spectrumatlas.org/spectrum/
--Overview the hardware -instruments- we will use for observation. (add logo done for SHIFT FESTIVAL)
--Artist using waves (RIXC WAVES catalog among other examples)
--Short round for students feedback on personal interests/projects.
+-What is the electromagnetic spectrum? 
+ http://www.spectrumatlas.org/spectrum/
+ range of wavelengths of electromagnetic radiation.
+-Overview -instruments- we will use in our observations.
 
 Day 1 Afternoon: methods and observations.
--segment of Specters of the Spectrum (movie)
--the conet project
--segment of 41. The Search for Extraterrestrials
+-view some segment of Specters of the Spectrum (movie)
+-listen some tracks of the conet project
+-segment from 41. The Search for Extraterrestrials
 -Pierre Huyghe One Million Kingdoms
 -videos of semiconductor + http://vimeo.com/1166968
--waves and art (waves catalog) relation between art and electromagnetic research
+-the relation between art and electromagnetic research (RIXC WAVES catalog)
 -Bureau d'etudes EMS map (blue one)
+-satellite voyeurims notes
+-Round for students feedback on personal interests/projects.
 
+Day 2 Morning: every FLOSS is a weapon
+-Short intro to Linux - Open Source Tools
+-Working Demo Hardware and Software tools:
 
-Day 2 Morning:
-
-Demo Hardware and Software tools:
-
-Short intro to Linux - Open Source Tools
-
--the baudline
--the gps
--the radio scanner
--the scrying boards 
-
-Some web References:
--http://jeffmann.com/Site/jeff%20mann%20-%20electric%20art.html
--http://www.zuviel.tv/mikomikona.html
--scrying board - martin howse / arduino: http://www.arduino.cc/playground/Main/CapSense
++the gps and the satellite networks
++the wide range radio scanner / the SDR
++pure:dyne usb key
++the baudline basics
++the scrying board martin howse / arduino: http://www.arduino.cc/playground/Main/CapSense
 -E.V.P (infrared photo)
 -antennas (AARL reference book)
 -TA-1 cross dipole
 -radio antennas
 
-Day 2 Afternoon:
+WWW_References:
+-http://jeffmann.com/Site/jeff%20mann%20-%20electric%20art.html
+-http://www.zuviel.tv/mikomikona.html
+
+Day 2 Afternoon: hunt the hunters
 
 Sousveillance (http://en.wikipedia.org/wiki/Sousveillance)
 
 -wireless (wireless community networks)
--satellites spotting software
--Bogota Declaration
+-satellites spotting software in action
+-Bogota Declaration Call
+-Definition of next day hands-on projects
+-head out to a roof and spot some iridium flares, ISS, UFO
 
-Day 3 Morning (hands on)
+Day 3 Morning: hands ON
 
 -++Martins advice
--DIY coil
--sound recs inside the teather
--sound recs in the port or airport
--gps tracking
+-DIY coil AF recording indoor.
+(optional field trip time/interest allowing)
+-sound recs in the port or airport.
+-gps tracklog.
 
-Day 3 Afternoon:
+Day 3 Afternoon: THEDATA
 
--collecting and processing the data
++description of possible way of processing the data via:
+-gnu plot
+-google earth tracklogs
+-open street map plotting.
+-puredata
+-fluxus S.O.U.P (http://soup.znerol.ch)
+-collecting data
+-spotting afternoon #2
 
-Day 4:
+Day 4: Making sense of it all, leaving traces online.
 
--Making sense of it all.
+The whole day is a hands on to the material, we will process images, videos and sounds with gps logs and critical texts to leave a record of the workshop.
 
-related tools:
+-----DONE!
 
+Related software and hardware to consider:
 -RFToolboxOSX
--sat tracking links
+-sat tracking links + satellite voyeurism notes
 
 hardware:
-
 -transducers
 -coil from tunedcity
 -trifield
@@ -76,8 +85,8 @@ hardware:
 -gps
 -scrying
 
-bibliography:
-
+Bibliography:
+-the ARRL Antenna Book
 -Electronic Projects from the Next Dimension
 -Wireless Networking in the Developing World
 -Waves
@@ -85,7 +94,6 @@ bibliography:
 -Designing Sound
 
 Tech Requirements:
-
 -Video projector
 -2 active monitors
-
+-opaques projector
