@@ -1,44 +1,71 @@
+Day 1 Morning:
+
+-Short intro from each other.
+-What is the electromagnetic spectrum? http://www.spectrumatlas.org/spectrum/
+-Artist using waves (RIXC WAVES catalog among other examples)
+-Short round for students feedback on personal interests/projects.
+
+Day 1 Afternoon:
 
 -segment of Specters of the Spectrum (movie)
--segment from the man on the moon antenna adventure in australia
--segment of 41. The Search for Extraterrestrials.mp3
--Pierre Huyghe Ann Lee
+-segment from the dish (?)
+-segment of 41. The Search for Extraterrestrials
+-Pierre Huyghe One Million Kingdoms
 -videos of semiconductor + http://vimeo.com/1166968
-
 -waves and art (waves catalog) relation between art and electromagnetic research
 -Bureau d'etudes EMS map (blue one)
 
--http://www.spectrumatlas.org/spectrum/
 
-www references (art):
+Day 2 Morning:
+
+Demo Hardware and Software tools:
+
+Short intro to Linux - Open Source Tools
+
+-the baudline
+-the gps
+-the radio scanner
+-the scrying boards 
+
+Some web References:
 -http://jeffmann.com/Site/jeff%20mann%20-%20electric%20art.html
 -http://www.zuviel.tv/mikomikona.html
-
-
 -scrying board - martin howse / arduino: http://www.arduino.cc/playground/Main/CapSense
 -E.V.P (infrared photo)
 -antennas (AARL reference book)
 -TA-1 cross dipole
 -radio antennas
+
+Day 2 Afternoon:
+
+Sousveillance (http://en.wikipedia.org/wiki/Sousveillance)
+
 -wireless (wireless community networks)
 -satellites spotting software
--Intro to Linux - Open Source Tools (baudline)
 -Bogota Declaration
--++Biblio (Collins + Brazilian)
+
+Day 3 Morning (hands on)
+
 -++Martins advice
 -DIY coil
-
 -sound recs inside the teather
 -sound recs in the port or airport
 -gps tracking
 
-tools
+Day 3 Afternoon:
 
--baudline
+-collecting and processing the data
+
+Day 4:
+
+-Making sense of it all.
+
+related tools:
+
 -RFToolboxOSX
 -sat tracking links
 
-hardware
+hardware:
 
 -transducers
 -coil from tunedcity
@@ -48,7 +75,7 @@ hardware
 -gps
 -scrying
 
-biblio
+bibliography:
 
 -Electronic Projects from the Next Dimension
 -Wireless Networking in the Developing World
@@ -56,4 +83,8 @@ biblio
 -Handmade Electronic Music
 -Designing Sound
 
+Tech Requirements:
+
+-Video projector
+-2 active monitors
 
