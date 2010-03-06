@@ -10,40 +10,41 @@ Day 1 Morning: We Specters
 -What is the electromagnetic spectrum? Blue Map - Red Map
  http://www.spectrumatlas.org/spectrum/
  range of wavelengths of electromagnetic radiation.
--Overview -instruments- we will use in our observations:
+-Overview of the instruments we will use in our observations some are here:
  http://distressfreq.wordpress.com/instruments/
--Round for feedback - personal interests/projects.
+ VLF, Wide Range Radio Scanner, Trifield Meter, Scrying board, CHDK canon camera + IR pass filter, USRP / gnuradio
+ Miliwattmeter, Antennas, Radio transmitters..
+-Round for feedback: personal interests/projects.
 
 Day 1 Afternoon: methods + observations
 -Clip from Specters of the Spectrum.
 -listen tracks from the conet project
--listen to some scanner clip i,e: 
+-listen to some scanner clip i,e: http://www.youtube.com/watch?v=Yfuat21E_dg
 -listen to http://www.astrosurf.com/luxorion/audiofiles-geomagnetosphere.htm
 -segment from 41. The Search for Extraterrestrials
 -Pierre Huyghe One Million Kingdoms
 -videos of semiconductor + http://vimeo.com/1166968
--the relation between art and electromagnetic research (RIXC WAVES catalog)
+-Relation between Art and Electromagnetic Research (RIXC WAVES catalog - xxxxx)
 -Bureau d'etudes mapping : http://www.universite-tangente.fr.st/
 -satellite voyeurism notes : http://bit.ly/dbdiNV
 
 
 Day 2 Morning: every FLOSS is a weapon
--Short intro to Linux - Open Source Tools
+-Short intro to GNU/Linux and few Open Source Tools.
 -Working Demo Hardware and Software tools:
- +planktum: http://planktum.wikidot.com/
-
-+the gps and the satellite networks
-+the wide range radio scanner / the SDR
-+the baudline basics
-+the scrying board martin howse / arduino: http://www.arduino.cc/playground/Main/CapSense
--E.V.P + E.M.I (infrared photo pass filter)
--radio antennas:
- +TA-1 cross dipole
- +UHF SATCOM : 
- http://www.uhf-satcom.com/uhf/uhfantenna.html
- http://www.hearsat.org/content/building-uhf-helical-antenna
- http://www.satellitenwelt.de/yagi260mhz.htm
--antennas (AARL reference book)
+ + planktum: http://planktum.wikidot.com/
+ + puredyne, satellite spotting applications, spectrum analyser
+ + the gps and the satellite networks
+ + the wide range radio scanner / the SDR / gnuradio
+ + basics of the spectrum analysis
+ + the scrying board martin howse / arduino: http://www.arduino.cc/playground/Main/CapSense
+ - what is E.V.P (+ E.M.I infrared photo pass filter)
+ -radio antennas:
+ + TA-1 cross dipole
+ + UHF SATCOM : http://www.uhf-satcom.com/uhf/uhfantenna.html
+   http://www.hearsat.org/content/building-uhf-helical-antenna
+   http://www.satellitenwelt.de/yagi260mhz.htm
+ - antennas (AARL reference book)
 
 WWW_References:
 -http://jeffmann.com/Site/jeff%20mann%20-%20electric%20art.html
@@ -53,11 +54,11 @@ Day 2 Afternoon: hunt the hunters
 
 Sousveillance (http://en.wikipedia.org/wiki/Sousveillance)
 
--wireless (wireless community networks)
--satellites spotting software PlanktumIII in action
+-wireless video and wireless community networks - the mesh potato case:  
 -The Bogota Declaration
 -Definition of next day hands-on projects
 -head out to a roof and spot some iridium flares, ISS, UFO, NOAA, LACROSS, etc..
+ + satellites spotting software PlanktumIII in action
 
 Day 3 Morning: hands ON
 
